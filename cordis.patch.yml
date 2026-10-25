@@ -1,0 +1,3 @@
+- insert:
+    - id: quick-panel
+      name: '@local/quick-panel'
